@@ -1,5 +1,7 @@
-# PROJECT_OF_NEW_ERA
+# 📈Data_Analysis_PROJECTS:
 **New Era** is a `comprehensive exploratory` data analysis project that investigates trends and patterns in the entertainment and other industry using `major datasets`: video game sales and Netflix content data. The project aims to provide actionable insights through `data cleaning, visualizations, and statistical analysis, uncovering sales trends, content popularity, and market dynamics`.
+
+---
 
 ## PROJECT_1(Video Game Sales Analysis):
 
@@ -36,16 +38,15 @@ The dataset consists of 1035+ video games with the following columns:
 Welcome to the **Netflix Data Analysis and Recommendation System** project!  
 This project dives deep into a dataset of Netflix content using **Exploratory Data Analysis (EDA)**, **Data Visualization**, and builds a **Content-Based Recommendation System**. The notebook uncovers content trends, viewer preferences, and provides personalized recommendations.
 
----
 
 ### Overview:
 
 In this project, we:
 
-- Cleaned and transformed the raw Netflix dataset.
-- Performed deep exploratory data analysis to uncover patterns and insights.
-- Built visualizations to illustrate key findings.
-- Developed a content-based movie and TV show recommender using textual similarity.
+- Cleaned and transformed the raw `Netflix dataset`.
+- Performed deep `exploratory data analysis` to uncover patterns and insights.
+- Built `visualizations` to illustrate key findings.
+- Developed a content-based movie and TV show recommender using `textual similarity`.
 
 > The goal is to understand Netflix's content distribution and help users discover shows or movies similar to their preferences.
 
@@ -60,9 +61,9 @@ In this project, we:
 - Cleaned up `duration` column to separate numerical values and units
 
 #### 📈 2. Exploratory Data Analysis (EDA)
-- Visualized type distribution (Movies vs TV Shows)
+- Visualized type distribution `(Movies vs TV Shows)`
 - Analyzed content trends by release year and addition year
-- Identified top contributing countries, directors, and actors
+- Identified top contributing `countries`, `directors`, and `actors`
 - Analyzed genre frequency using bar plots and WordClouds
 
 #### 🤖 3. Content-Based Recommendation System
