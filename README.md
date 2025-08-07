@@ -50,7 +50,6 @@ In this project, we:
 
 > The goal is to understand Netflix's content distribution and help users discover shows or movies similar to their preferences.
 
----
 
 ### 📊 Key Features:
 
@@ -71,7 +70,6 @@ In this project, we:
 - Used **TF-IDF Vectorization** and **Cosine Similarity** to recommend similar titles
 - Custom function to get top N recommendations for any selected show/movie
 
----
 
 ### Technologies Used:
 
