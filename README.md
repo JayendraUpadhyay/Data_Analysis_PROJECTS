@@ -85,6 +85,36 @@ In this project, we:
 
 ---
 
+## Air Quality Index (AQI) Analysis
 
+### 📌 Overview
+This project presents a **comprehensive analysis of air quality** across various Indian states using multiple environmental parameters. The dashboard provides clear insights into pollution levels, their distribution, and affected regions, helping stakeholders make informed decisions.
 
+### 📊 Key Features
+- **State-wise AQI comparison** – Visualized as bar charts for quick comparisons.
+- **AQI range categorization** – Classified into *Hazardous*, *Very Unhealthy*, *Unhealthy*, *Poor*, and *Moderate* levels.
+- **Pollution type breakdown** – Insights on AQI max values across different area types (*Residential*, *Industrial*, *Sensitive* areas, etc.).
+- **Geographical distribution** – An interactive map showing SPM (Suspended Particulate Matter) concentration by state.
+- **Aggregated pollutant data** – Summary metrics for SO₂, NO₂, RSPM, and SPM.
+- **Interactive filters** – Ability to filter results by AQI range.
+
+### 📂 Data Metrics
+The dashboard analyzes and aggregates the following key metrics:
+- **SO₂ (Sulfur Dioxide)**
+- **NO₂ (Nitrogen Dioxide)**
+- **RSPM (Respirable Suspended Particulate Matter)**
+- **SPM (Suspended Particulate Matter)**
+- **AQI (Air Quality Index)**
+
+### 📍 Insights from the Dashboard
+- **Delhi** recorded the highest average AQI (336), followed by **Uttar Pradesh** and **Jharkhand**.
+- Majority of the data falls under the *Very Unhealthy* category (36.63M AQI sum).
+- Industrial and residential zones show significant AQI peaks.
+- Pollutant concentration hotspots are widespread across northern and eastern India.
+
+### 🛠️ Tech Stack
+- **Data Visualization:** Power BI
+- **Data Source:** Air quality datasets (SO₂, NO₂, RSPM, SPM readings)
+- **Mapping:** Microsoft Bing Maps integration
+- **Data Processing:** Python / Excel (optional, if preprocessing is done)
 
