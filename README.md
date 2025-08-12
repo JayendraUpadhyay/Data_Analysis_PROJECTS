@@ -85,7 +85,7 @@ In this project, we:
 
 ---
 
-## Air Quality Index (AQI) Analysis
+## AIR QUALITY INDEX (AQI) ANALYSIS 
 
 ### 📌 Overview
 This project presents a **comprehensive analysis of air quality** across various Indian states using multiple environmental parameters. The dashboard provides clear insights into pollution levels, their distribution, and affected regions, helping stakeholders make informed decisions.
